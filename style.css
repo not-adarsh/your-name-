@@ -24,7 +24,7 @@ html,body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 4vw  ;
+    padding: 4vh 4vw  ;
     border-bottom: 3px solid black;
     
 }
@@ -62,7 +62,8 @@ html,body{
     background-color: rgb(55, 53, 50);
     color: rgb(232, 246, 246);
     border-radius: 90px;
-font-weight: 600;
+    font-weight: 600;
+    margin:1vw 1vh;
 
 }
 .nav i{
